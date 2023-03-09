@@ -1,6 +1,6 @@
 # EmployeeTestQuestion
 
-Scenario: interview type questions for employees to see their understanding of different data structures
+Scenario: interview type questions for employees to see their understanding of different data structures and their knowledge of Time complexities.
 
 my chosen question: Find the median of 2 sorted arrays.
 
